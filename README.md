@@ -1,7 +1,7 @@
 # mysimplerepository
 
 Line 1
-
+This change is from change1. Should be merged into master
 
 Line 2 - this is line two
 
@@ -13,7 +13,7 @@ Line 4
 Line 5
 
 
-Line 6
+Line 66
 
 
 
