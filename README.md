@@ -26,4 +26,5 @@ change in change1
 
 change in master 1
 
+This is a new feature in change1 branch. should be merged into master
 
