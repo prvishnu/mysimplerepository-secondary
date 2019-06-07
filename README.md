@@ -1,6 +1,6 @@
 # mysimplerepository
 
-Line 1
+Line 1 changed in master branch. do no push this into change1 branch
 
 
 Line 2 - this is line two
