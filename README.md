@@ -1,7 +1,7 @@
 # mysimplerepository
 
-Line 1 changed in master branch. do no push this into change1 branch
-
+Line 1
+This change is from change1. Should be merged into master
 
 Line 2 - this is line two
 
