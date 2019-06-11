@@ -30,3 +30,6 @@ This is a new feature in change1 branch. should be merged into master
 
 This is a new change made in master. SHOULD NOT BE MERGED INTO CHANGE1
 This is another change made in master . SHOULD NOT BE MERGED INTO CHANGE1
+
+
+This line is added in change2 branch
