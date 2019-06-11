@@ -3,7 +3,7 @@
 Line 1
 This change is from change1. Should be merged into master
 
-Line 2 - this is line two
+Line 2 - edited in master branch of mysimplerepository
 
 
 Line 3
